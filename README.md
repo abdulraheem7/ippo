@@ -1,1 +1,4 @@
-[![ippo](https://www.tiktok.com/@sonaasta/video/7386285182162078982?is_from_webapp=1&sender_device=pc)](https://github.com/abdulraheem7/<ippo>/blob/main/ssstik.io_1720400397817.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/<username>/<repository>/blob/main/<video-file>.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
