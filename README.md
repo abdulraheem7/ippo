@@ -1,4 +1,1 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/abdulraheem7/ippo/blob/main/ssstik.io_1720400397817.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Title](https://img.youtube.com/vi/<video-id>/0.jpg)](https://github.com/<username>/<repository>/blob/main/<video-file>.mp4)
